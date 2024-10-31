@@ -13,3 +13,4 @@ Footer: Informative footer with links and social media sections.
 🔧 Technologies Used
 HTML5: Structuring the layout and content of the webpage.
 CSS3: Styling, hover effects, layout management, and responsive design.
+#![Screenshot 2024-10-20 221832](https://github.com/user-attachments/assets/b3b5321a-dc91-4b4c-ba8e-18c9ef0f4b96)
